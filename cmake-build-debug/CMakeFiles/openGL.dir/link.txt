@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/openGL.dir/glad/glad.c.o CMakeFiles/openGL.dir/graphics.cpp.o  -o openGL 

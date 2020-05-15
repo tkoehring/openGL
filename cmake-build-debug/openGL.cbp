@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="openGL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tk/Code/openGL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tk/Code/openGL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/home/tk/Code/openGL/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tk/Code/openGL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/home/tk/Code/openGL/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tk/Code/openGL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tk/Code/openGL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/tk/Code/openGL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tk/Code/openGL/Camera.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Camera.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/InputManager.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/InputManager.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Renderable_Object.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Renderable_Object.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/ResourceManager.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/ResourceManager.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Shader.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Shader.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Texture.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Texture.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Window.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/Window.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/WindowManager.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/WindowManager.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/game.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/game.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/geometry.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/geometry.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/include/glad/glad.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/include/glad/glad.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/include/stb_image/stb_image.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/include/stb_image/stb_image.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/tk/Code/openGL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

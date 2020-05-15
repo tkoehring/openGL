@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="openGL" targetName="main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1efad8d-4f1d-4dcc-834a-b02265782115" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GLSL Shader" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="riNmCpVr" />
+  </component>
+  <component name="ProjectId" id="1YXNsLwk8IlH2ydZ5t9TLIkEEgq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/textures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openGL" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openGL" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1efad8d-4f1d-4dcc-834a-b02265782115" name="Default Changelist" comment="" />
+      <created>1583085184970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583085184970</updated>
+      <workItem from="1583085187808" duration="1955000" />
+      <workItem from="1583087213825" duration="48489000" />
+      <workItem from="1584821837054" duration="11452000" />
+      <workItem from="1584901712696" duration="101607000" />
+      <workItem from="1585414108705" duration="20355000" />
+      <workItem from="1585685056120" duration="5684000" />
+      <workItem from="1589570107634" duration="2005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="537" width="594" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583086757267">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="540" y="537" width="594" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.3373.1413@0.27.3373.1413" timestamp="1583086757267" />
+    <state x="576" y="481" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583162361533">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="576" y="481" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.3373.1413@0.27.3373.1413" timestamp="1583162361533" />
+    <state x="626" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583103279299">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="626" y="490" width="424" height="484" key="FileChooserDialogImpl/0.27.3373.1413@0.27.3373.1413" timestamp="1583103279299" />
+    <state width="3327" height="556" key="GridCell.Tab.0.bottom" timestamp="1587000261950">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state width="3327" height="556" key="GridCell.Tab.0.bottom/0.27.3373.1413@0.27.3373.1413" timestamp="1587000261950" />
+    <state width="3327" height="556" key="GridCell.Tab.0.center" timestamp="1587000261949">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state width="3327" height="556" key="GridCell.Tab.0.center/0.27.3373.1413@0.27.3373.1413" timestamp="1587000261949" />
+    <state width="3327" height="556" key="GridCell.Tab.0.left" timestamp="1587000261949">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state width="3327" height="556" key="GridCell.Tab.0.left/0.27.3373.1413@0.27.3373.1413" timestamp="1587000261949" />
+    <state width="3327" height="556" key="GridCell.Tab.0.right" timestamp="1587000261950">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state width="3327" height="556" key="GridCell.Tab.0.right/0.27.3373.1413@0.27.3373.1413" timestamp="1587000261950" />
+    <state x="438" y="256" key="SettingsEditor" timestamp="1589570180057">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="438" y="256" key="SettingsEditor/0.27.3373.1413@0.27.3373.1413" timestamp="1589570180057" />
+    <state x="514" y="466" key="com.intellij.ide.util.TipDialog" timestamp="1583087215919">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="514" y="466" key="com.intellij.ide.util.TipDialog/0.27.3373.1413@0.27.3373.1413" timestamp="1583087215919" />
+    <state x="1333" y="299" width="707" height="867" key="find.popup" timestamp="1583103283178">
+      <screen x="0" y="27" width="3373" height="1413" />
+    </state>
+    <state x="1333" y="299" width="707" height="867" key="find.popup/0.27.3373.1413@0.27.3373.1413" timestamp="1583103283178" />
+  </component>
+</project>
