@@ -15,7 +15,7 @@ struct Vertex
     glm::vec2 texCoords;
 };
 
-class cube : Renderable_Object
+class cube : public Renderable_Object
 {
     private:
         glm::vec3 center;

@@ -35,6 +35,7 @@ class game
         void initializeWindowManager();
         void initializeInputManager();
         void build_camera();
+        void build_cubes();
         bool initializeGLFW();
         bool initializeGLAD();
 

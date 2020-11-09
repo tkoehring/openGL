@@ -59,6 +59,7 @@ void cube::genVerts()
     memcpy(vertices, v, vertCount*sizeof(float));
 
     glm::vec3 offset = center - glm::vec3(0, 0, 0);
+
     int idx;
     for(int i = 0; i < 36; i++)
     {
